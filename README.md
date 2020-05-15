@@ -1,5 +1,5 @@
 # VRED-realtimeSceneInspector
-## Use this script to enable an Autofocus with GPU Raytracing
+## Use the script to inspect name, parent and applied material in realtime of any geometry node in VRED.
 
 Execute the VRED-realtimeSceneInspector.py in your VRED Scene.
 
