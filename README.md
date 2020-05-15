@@ -1,14 +1,13 @@
 # VRED-realtimeSceneInspector
 ## Use this script to enable an Autofocus with GPU Raytracing
 
-Execute the cameraAutoFocus.py in your VRED Scene.
-Turn on GPU Raytracing. Navigate Around. The focus point is always the Center of your scene.
+Execute the VRED-realtimeSceneInspector.py in your VRED Scene.
 
-Note: Glass Materials will be ignored. While centering on Glass Materials, the performance is a bit lower.
-Switch Materials and their children are taken into account.
-The seeThrough value will be taken into account. You can adjust threshold to define, where to set the focus.
-The transparency of Mulitplass Materials, LayeredMaterials, XRay, X-Rite etc will be ignored.
+Just paste the Scene in the Script Editor of VRED and press run.
+Hover over Geometries to see the geometries name, parents and materials in the viewpoint.
+Feel free to adjust annotation properties in the Annotation Module.
 
-### VRED-GPUAutoFocus:
+
+### VRED-realtimeSceneInspector:
 GPU Realtime Raytracing Autofocus
-![](cameraAutoFocus.gif)
+![](VRED-realtimeSceneInspector.gif)
