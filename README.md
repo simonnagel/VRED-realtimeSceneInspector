@@ -9,5 +9,5 @@ Feel free to adjust annotation properties in the Annotation Module.
 
 
 ### VRED-realtimeSceneInspector:
-GPU Realtime Raytracing Autofocus
+VRED-realtimeSceneInspector Usecase:
 ![](VRED-realtimeSceneInspector.gif)
